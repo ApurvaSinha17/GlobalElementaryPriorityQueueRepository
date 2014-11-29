@@ -7,7 +7,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		UnorderedMaxPQ priorityQueue = new UnorderedMaxPQ(100);
+		UnorderedMaxPQ priorityQueue = new UnorderedMaxPQ();
 		String userChoice = null;
 		Random random = new Random();
 		
